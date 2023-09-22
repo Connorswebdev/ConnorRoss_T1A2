@@ -9,11 +9,9 @@ button {
 .btn {
     display: inline-block;
     font-weight: 600;
-    padding: 0.5em 1em;
     border-radius: 6px;
     letter-spacing: 0.01em;
     color: var(--clr-light);
-    background-color: var(--clr-button);
 }
 
 .container {
@@ -34,10 +32,7 @@ button {
 /* Small Screens */
 @media (min-width: 640px) {}
 /* Medium Screens */
-@media (min-width: 768px) {
-    .header__hamburger {
-        display: none;
-}
+@media (min-width: 768px) {}
 /* Large Screens */
 @media (min-width: 1024px) {}
 /* Extra Large Screens */

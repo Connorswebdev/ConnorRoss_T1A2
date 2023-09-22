@@ -20,15 +20,15 @@
     display: flex;
     justify-content: flex-end;
     align-items: center;
-    padding-top: 2.5rem;
-    padding-bottom: 2.5rem;
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
 
 }
 .header__nav {
     display: flex;
     align-items: center;
     list-style: none;
-    gap: 1em;
+    gap: 1.5em;
 }
 
 .header__titles {
@@ -54,8 +54,9 @@ nav {
     justify-content: flex-end;
     align-items: center;
     text-align: end;
-    padding-top: 2rem;
-    padding-bottom: 2rem;
+    padding-top: 0.0rem;
+    padding-bottom: 0.5rem;
+    padding-right: 0.5rem;
 }
 /* Attempting to add hamburger icon for easy access on mobile devices. Attempts failed. May return to this.
 
