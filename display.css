@@ -1,0 +1,46 @@
+button {
+    display: inline-block;
+    padding: 0;
+    border: none;
+    background: none;
+    cursor: pointer;
+}
+/* Display for the button, giving it a radial look */
+.btn {
+    display: inline-block;
+    font-weight: 600;
+    padding: 0.5em 1em;
+    border-radius: 6px;
+    letter-spacing: 0.01em;
+    color: var(--clr-light);
+    background-color: var(--clr-button);
+}
+
+.container {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+    /* border: 1px solid red;; */
+}
+
+
+
+/* Media Screens below */
+
+/* Extra small screen */
+@media (min-width: 475px) {}
+/* Small Screens */
+@media (min-width: 640px) {}
+/* Medium Screens */
+@media (min-width: 768px) {
+    .header__hamburger {
+        display: none;
+}
+/* Large Screens */
+@media (min-width: 1024px) {}
+/* Extra Large Screens */
+@media (min-width: 1280px) {}
+/* Super Large Screens (Testing on my massive monitor) */
+@media (min-width: 1536px) {}
