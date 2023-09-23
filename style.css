@@ -15,7 +15,7 @@
     --clr-bold: #4338ca ;
     --clr-button: #e11d48;
 }
-
+/* Adding styling to buttons below. Including on hover to create a smooth red colouration, */
 .header {
     display: flex;
     justify-content: flex-end;
@@ -58,25 +58,3 @@ nav {
     padding-bottom: 0.5rem;
     padding-right: 0.5rem;
 }
-/* Attempting to add hamburger icon for easy access on mobile devices. Attempts failed. May return to this.
-
-.navbar-container .hamburger-lines .line {
-    display: block;
-    height: 4px;
-    width: 100%;
-    border-radius: 10px;
-    background: #333;
-  }
-  .navbar-container .hamburger-lines .line1 {
-    transform-origin: 0% 0%;
-    transition: transform 0.4s ease-in-out;
-  }
-
-  .navbar-container .hamburger-lines .line2 {
-    transition: transform 0.2s ease-in-out;
-  }
-
-  .navbar-container .hamburger-lines .line3 {
-    transform-origin: 0% 100%;
-    transition: transform 0.4s ease-in-out;
-  } */
