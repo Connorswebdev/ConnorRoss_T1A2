@@ -32,7 +32,7 @@
 }
 
 .header__titles {
-    font-size: small;
+    font-size: 2rem;
     text-decoration: none;
     color: var(--clr-light);
     letter-spacing: -0.025em;
@@ -47,6 +47,14 @@
 body {
     background-color: var(--clr-dark);
     color: var(--clr-primary);
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+footer {
+    margin-top: auto;
+    align-self: center;
 }
 
 nav {
@@ -57,4 +65,40 @@ nav {
     padding-top: 0.0rem;
     padding-bottom: 0.5rem;
     padding-right: 0.5rem;
+}
+
+.profile {
+    width: 25vw;
+    height: 25vh;
+    border-radius: 50%;
+    min-width: 300px;
+    max-width: 300px;
+    min-height: 300px;
+    max-height: 300px;
+}
+.title {
+    text-align: center;
+}
+
+footer {
+    padding: 1em;
+    align-content: space-evenly;
+    text-align: center;
+}
+.icon__size {
+    max-height: 2rem;
+    min-height: 1rem;
+    max-width: 2rem;
+    min-width: 1rem;
+    display: flex;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.socials {
+    align-content: space-between;
+    text-align: center;
+    font-size: 2rem;
 }

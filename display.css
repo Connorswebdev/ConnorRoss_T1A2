@@ -23,6 +23,9 @@ button {
     /* border: 1px solid red;; */
 }
 
+@page {
+    size: auto;
+}
 
 
 /* Media Screens below */
