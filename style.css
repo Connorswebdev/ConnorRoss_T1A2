@@ -102,3 +102,13 @@ footer {
     text-align: center;
     font-size: 2rem;
 }
+
+.contact {
+    text-align: center;
+    margin-bottom: 25vh;
+}
+
+#contact {
+    text-align: center;
+    margin-top: 25vh;
+}
