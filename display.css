@@ -31,9 +31,17 @@ button {
 /* Media Screens below */
 
 /* Extra small screen */
-@media (min-width: 475px) {}
+@media (min-width: 475px) {
+    .header__titles{
+        font-size: 1rem;
+    }
+}
 /* Small Screens */
-@media (min-width: 640px) {}
+@media screen and (min-width: 640px) {
+    .header__titles{
+        font-size: 1rem;
+    }
+}
 /* Medium Screens */
 @media (min-width: 768px) {}
 /* Large Screens */
