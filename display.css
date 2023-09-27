@@ -27,26 +27,22 @@ button {
     size: auto;
 }
 
-
-/* Media Screens below */
-
-/* Extra small screen */
-@media (min-width: 475px) {
+/* Tablet */
+@media only screen and (max-width:400px){
     .header__titles{
-        font-size: 1rem;
+        font-size: 1.5rem;
+        letter-spacing: -0.1rem;
+    }
+    h1,h2 {
+        justify-content: center;
     }
 }
-/* Small Screens */
-@media screen and (min-width: 640px) {
+
+
+/* Tablet */
+@media only screen and (min-width: 401px) and (max-width: 960px){
     .header__titles{
-        font-size: 1rem;
+        font-size: 2rem;
+        letter-spacing: -0.1rem;
     }
 }
-/* Medium Screens */
-@media (min-width: 768px) {}
-/* Large Screens */
-@media (min-width: 1024px) {}
-/* Extra Large Screens */
-@media (min-width: 1280px) {}
-/* Super Large Screens (Testing on my massive monitor) */
-@media (min-width: 1536px) {}

@@ -2,7 +2,7 @@ h3, h4 {
     margin: 0 0 0.35em;
 }
 
-h3 {
+.blog {
     font-size: 40px;
     background-color: var(--clr-bold);
 }
