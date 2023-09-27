@@ -27,7 +27,7 @@ button {
     size: auto;
 }
 
-/* Tablet */
+/* Mobile */
 @media only screen and (max-width:400px){
     .header__titles{
         font-size: 1.5rem;
