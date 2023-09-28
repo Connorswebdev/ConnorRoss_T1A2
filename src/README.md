@@ -32,16 +32,16 @@ Home Page
 ![Home Page Wireframe](../docs/HomePage_wireframe.PNG "Home Page Wireframe")
 
 About
-![About Wireframe](../docs/AboutMe_wireframe.png "About Me Wireframe")
+![About Wireframe](../docs/AboutMe_wireframe.PNG "About Me Wireframe")
 
 Blog
-![Blog Wireframe](../docs/Blog_wireframe.png "Blog Wireframe")
+![Blog Wireframe](../docs/Blog_wireframe.PNG "Blog Wireframe")
 
 Sample Blog Post
-![Sample Blog Wireframe](../docs/SampleBlog_wireframe.png "Sample Blog Wireframe")
+![Sample Blog Wireframe](../docs/SampleBlog_wireframe.PNG "Sample Blog Wireframe")
 
 Contact
-![Contact Wireframe](../docs/Contact_wireframe.png "Contact Wireframe")
+![Contact Wireframe](../docs/Contact_wireframe.PNG "Contact Wireframe")
 
 ## Screenshots
 ### Phone Screenshots:
@@ -56,13 +56,13 @@ Contact
 ![About Screenshots](../docs/Tablet_screenshotabout.png "About Screenshots")
 ![Blog Screenshots](../docs/Tablet_screenshotblog.png "Blog Screenshots")
 ![Blog Post Screenshots](../docs/Tablet_screenshotblogpost.png "Blog Post Screenshots")
-![Contact Screenshots](./docs/Tablet_screenshotcontact.png "Contact Screenshots")
+![Contact Screenshots](../docs/Tablet_screenshotcontact.png "Contact Screenshots")
 
 ### Desktop Screenshots:
 ![Home Screenshots](../docs/Desktop_screenshothome.png "Home Screenshots")
 ![About Screenshots](../docs/Desktop_screenshotabout.png "About Screenshots")
 ![Blog Screenshots](../docs/Desktop_screenshotblog.png "Blog Screenshots")
-![Blog Post Screenshots](..docs/Desktop_screenshotblogpost.png "Blog Post Screenshots")
+![Blog Post Screenshots](../docs/Desktop_screenshotblogpost.png "Blog Post Screenshots")
 ![Contact Screenshots](../docs/Desktop_screenshotcontact.png "Contact Screenshots")
 
 ## Tech Stack
