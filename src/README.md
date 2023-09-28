@@ -23,46 +23,46 @@ The idea of this portfolio is to demonstate a set of skills that has been aquire
 The target audience for the portfolio is any potential employer/client for future projects.
 
 ## Sitemap
-![Sitemap](../docs/images/sitemap.png "Sitemap") 
+![Sitemap](../docs/sitemap.png "Sitemap") 
 Each main page can be accessed from anywhere. For example, if someone is viewing a blog post and wants to reach the contact page in one button, they can.
 
 ## Wireframes
 
 Home Page
-![Home Page Wireframe](../docs/images/HomePage_wireframe.PNG "Home Page Wireframe")
+![Home Page Wireframe](../docs/HomePage_wireframe.PNG "Home Page Wireframe")
 
 About
-![About Wireframe](../docs/images/AboutMe_wireframe.png "About Me Wireframe")
+![About Wireframe](../docs/AboutMe_wireframe.png "About Me Wireframe")
 
 Blog
-![Blog Wireframe](../docs/images/Blog_wireframe.png "Blog Wireframe")
+![Blog Wireframe](../docs/Blog_wireframe.png "Blog Wireframe")
 
 Sample Blog Post
-![Sample Blog Wireframe](../docs/images/SampleBlog_wireframe.png "Sample Blog Wireframe")
+![Sample Blog Wireframe](../docs/SampleBlog_wireframe.png "Sample Blog Wireframe")
 
 Contact
-![Contact Wireframe](../docs/images/Contact_wireframe.png "Contact Wireframe")
+![Contact Wireframe](../docs/Contact_wireframe.png "Contact Wireframe")
 
 ## Screenshots
 ### Phone Screenshots:
-![Home Screenshots](../docs/images/Phone_screenshothome.png "Home Screenshot Mobile")
-![About Screenshots](../docs/images/Phone_screenshotabout.png "About Screenshots")
-![Blog Screenshots](../docs/images/Phone_screenshotblog.png "Blog Screenshots")
-![Blog Post Screenshots](../docs/images/Phone_screenshotblogpost.png "Blog Post Screenshots")
-![Contact Screenshots](../docs/images/Phone_screenshotcontact.png "Contact Screenshots")
+![Home Screenshots](../docs/Phone_screenshothome.png "Home Screenshot Mobile")
+![About Screenshots](../docs/Phone_screenshotabout.png "About Screenshots")
+![Blog Screenshots](../docs/Phone_screenshotblog.png "Blog Screenshots")
+![Blog Post Screenshots](../docs/Phone_screenshotblogpost.png "Blog Post Screenshots")
+![Contact Screenshots](../docs/Phone_screenshotcontact.png "Contact Screenshots")
 
 ### Tablet Screenshots:
-![Home Screenshots](../docs/images/Tablet_screenshothome.png "Home Screenshots")
-![About Screenshots](../docs/images/Tablet_screenshotabout.png "About Screenshots")
-![Blog Screenshots](../docs/images/Tablet_screenshotblog.png "Blog Screenshots")
+![Home Screenshots](../docs/Tablet_screenshothome.png "Home Screenshots")
+![About Screenshots](../docs/Tablet_screenshotabout.png "About Screenshots")
+![Blog Screenshots](../docs/Tablet_screenshotblog.png "Blog Screenshots")
 ![Blog Post Screenshots](../docs/Tablet_screenshotblogpost.png "Blog Post Screenshots")
-![Contact Screenshots](./docs/images/Tablet_screenshotcontact.png "Contact Screenshots")
+![Contact Screenshots](./docs/Tablet_screenshotcontact.png "Contact Screenshots")
 
 ### Desktop Screenshots:
-![Home Screenshots](../docs/images/Desktop_screenshothome.png "Home Screenshots")
-![About Screenshots](../docs/images/Desktop_screenshotabout.png "About Screenshots")
-![Blog Screenshots](../docs/images/Desktop_screenshotblog.png "Blog Screenshots")
-![Blog Post Screenshots](..docs/images/Desktop_screenshotblogpost.png "Blog Post Screenshots")
+![Home Screenshots](../docs/Desktop_screenshothome.png "Home Screenshots")
+![About Screenshots](../docs/Desktop_screenshotabout.png "About Screenshots")
+![Blog Screenshots](../docs/Desktop_screenshotblog.png "Blog Screenshots")
+![Blog Post Screenshots](..docs/Desktop_screenshotblogpost.png "Blog Post Screenshots")
 ![Contact Screenshots](../docs/Desktop_screenshotcontact.png "Contact Screenshots")
 
 ## Tech Stack
