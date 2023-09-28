@@ -1,5 +1,0 @@
-
-
-The idea of this portfolio is to demonstate a set of skills that has been aquired throughout the course. I wanted to keep the website simple and easily navigated. The links in the top keep it so that each page can be accessed from another and always find a way back to another directory. There is several features that I included. The mentioned links were the first I added as I realised that different sections needed to be linked and easily accessible. I also added an email submission form on the contact page alongside links to social medias. By doing this I increased odds of a potential employer reaching out as it may be something that is needed if the employer cannot reach out over Linkedin. The blog has links to each individual blog post. I added this as a "See More" link so that it was readable and enticed the viewer to continue reading. 
-
-The target audience for the portfolio is any potential employer/client for future projects. I used HTML and CSS to code this project and vercel to deploy the portfolio.

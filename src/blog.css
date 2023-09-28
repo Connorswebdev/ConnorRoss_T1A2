@@ -23,10 +23,25 @@ a {
     color: var(--clr-primary);
 }
 
-img {
+.blog__img {
     border-radius: 50%;
     min-height: 200px;
     max-height: 200px;
     min-width: 200px;
     max-width: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.blog_img {
+    border-radius: 50%;
+    min-height: 200px;
+    max-height: 200px;
+    min-width: 200px;
+    max-width: 200px;
+    display: block;
+
+    
 }
