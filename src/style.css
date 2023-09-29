@@ -112,3 +112,7 @@ footer {
     text-align: center;
     margin-top: 25vh;
 }
+
+.about__title {
+    background-color: var(--clr-bold);
+}
