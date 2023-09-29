@@ -16,7 +16,7 @@ The idea of this portfolio is to demonstate a set of skills that has been aquire
  * About: I wrote a brief summary of my life so far for a personal touch. At the bottom of the page is a link to download my resume for potential employers.
  * Blog: This pages hosts the 5 blog posts. I kept the text of each preview short so that the viewer may click in to read more. I chose an indigo colour for the background as I felt the colours were suiting.
  * Blog Post: These pages are sample blogs, each still with a navbar to find a way back to the rest of the websites content.
- * Contact: On the contact page I put links to social media and an email submission form for prospective employers.
+ * Contact: On the contact page I put links to social media and an email submission form for prospective employers/ clients.
 
 ## Target Audience
 
