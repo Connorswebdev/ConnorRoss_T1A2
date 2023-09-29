@@ -2,7 +2,7 @@
 
 ### Author: Connor Ross
 
-[Published Porfolio Website] http://www.
+[Published Porfolio Website] (https://connor-ross-t1-a2-vh4u.vercel.app/)
 
 [Github repository] (https://github.com/Connorswebdev/ConnorRoss_T1A2)
 
