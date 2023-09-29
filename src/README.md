@@ -70,3 +70,5 @@ Contact
 To make this website I used Semantic HTML and CSS. For deployment I used Vercel. The wireframes were created in Figma. The sitemap was created in MS Paint.
 
 For the profile image I used Craiyon to generate an image. https://www.craiyon.com/
+
+Images for the social media icons were used from icons 8. https://icons8.com/
