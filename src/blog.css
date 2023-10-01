@@ -11,6 +11,7 @@ h2 {
     border: 1px solid var(--clr-secondary);
 }
 
+/* No media queries were used to get the blog responsive. I used CSS grids to do the work for me and auto fit on the page when there was room. As there is less room on a mobile, it fits nicely into a singular column. A tablet has enough screen size for 2 columns. My widescreen desktop could fit about 7 columns. This meant minimal coding and a great result. */
 
 #blog__content{
     display: grid;
@@ -23,11 +24,12 @@ h2 {
     padding: 1rem;
   }
   
+  /* Styling to keep all images the same size. */
   .blog__img {
-    min-height: 200px;
-    max-height: 200px;
-    min-width: 200px;
-    max-width: 200px;
+    min-height: 12.5rem;
+    max-height: 12.5rem;
+    min-width: 12.5rem;
+    max-width: 12.5rem;
     margin-left: auto;
     margin-right: auto;
     justify-content: center;

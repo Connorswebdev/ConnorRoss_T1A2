@@ -10,7 +10,7 @@
     size: auto;
 }
 
-/* Mobile */
+/* Mobile Screens - Allowing the header to fit into small phones*/
 @media only screen and (max-width:600px){
     .header__titles{
         font-size: 1.5rem;
